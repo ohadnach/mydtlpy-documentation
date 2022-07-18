@@ -4,14 +4,29 @@
   "description": "Use Dataloop Python SDK to create Tasks and Assignments, manage annotators and annotations jobs",
   "content": [
     {
-      "displayName": "Tasks and Assignment",
-      "description": "Getting started with Task and Assignments.",
-      "location": "task_workflows/tasks_and_assignments/index.json"
+      "displayName": "Create Annotation Task",
+      "description": "Getting started with Annotation Tasks.",
+      "location": "task_workflows/tasks_and_assignments/create_a_task/chapter.md"
     },
     {
-      "displayName": "QA Tasks Management",
-      "description": "Create QA tasks and annotation-qa flows",
-      "location": "task_workflows/qa/index.json"
+      "displayName": "Create QA Task",
+      "description": "Getting started with QA Tasks.",
+      "location": "task_workflows/qa/create_a_new_qa_task/chapter.md"
+    },
+    {
+      "displayName": "Setting status on items",
+      "description": "Getting started with status on items when in task",
+      "location": "task_workflows/tasks_and_assignments/task_assignment/chapter.md"
+    },
+    {
+      "displayName": "Redistribute and Reassign",
+      "description": "Redistribute and reassign items from tasks and assignments",
+      "location": "task_workflows/tasks_and_assignments/redistributing_and_reassigning_a_task/chapter.md"
+    },
+    {
+      "displayName": "Delete task & assignment",
+      "description": "Delete task and assignments from annotation workflow",
+      "location": "task_workflows/tasks_and_assignments/redistributing_and_reassigning_a_task/chapter.md"
     }
   ]
 }
